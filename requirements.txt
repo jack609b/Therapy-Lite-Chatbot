@@ -1,0 +1,6 @@
+pymongo
+python-dotenv
+langgraph
+langchain_openai
+langchain
+streamlit
